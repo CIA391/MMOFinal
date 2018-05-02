@@ -1,0 +1,86 @@
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+}
+#wrapper{
+	background-color: blue;
+	width: 800px;
+	margin:0 auto;
+}
+.layer{
+	margin-top: 10px;
+	margin-bottom:10px;
+}
+
+.container{
+	margin-left: 35%;
+}
+
+.content{
+	background-color:blue;
+	padding: 10px;
+	height: 57%;
+	color:black;
+}
+
+.footer{
+	background-color:#333;
+	color: #fff;
+	text-align: center;
+}
+
+.AI{
+	background-color:blue;
+	color:Red;
+	width:350px;
+	height:250px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float:left;
+	background-image:url("../assets/Enemyship.png");
+	background-position: center;
+}
+
+.items{
+	background-color:blue;
+	color:white;
+	width:200px;
+	height:250px;
+	float:left;
+	background-position: center;
+}
+
+.market{
+	background-color:blue;
+	color:white;
+	width:500px;
+	height:400px;
+
+	text-align:center;
+	background-position: center;
+}
+
+table, td, th {
+	border: 1px solid #ddd;
+	text-align: left;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin: 0 auto;
+	color: white;
+}
+
+th, td {
+	padding: 5px;
+}
+
+.stats {
+	background-color: black;
+	color: white;
+	width: 200px;
+	height: 250px;
+	float: left;
+	text-align: center;
+}
